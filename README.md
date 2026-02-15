@@ -1,4 +1,4 @@
-﻿# Hi, I'm Zundel Grand (wspdyb) 👋
+﻿# Hi, I'm wspdyb 👋
 
 ## 🛠️ Technical Specialization
 * **Android Systems & Internals**: Specialist in firmware updates, system modifications, and reverse engineering.
