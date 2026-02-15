@@ -1,16 +1,15 @@
-## Hi there 👋
+﻿# Hi there, I'm Zundel Grand (wspdyb) 👋
 
-<!--
-**wspdyb/wspdyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Specialization
+* **Android Low-Level & Systems**: Specialist in firmware flashing, system file modifications, and reverse engineering.
+* **Advanced Toolset**: Proficient with tools like ADB, Fastboot, Smali, Frida, and Ghidra.
+* **Hardware & Firmware**: Experienced with MediaTek (MTK) processors and firmware patching tools.
+* **Localization**: Expert in RTL (Right-to-Left) UI adaptations and Hebrew localization for Android tools.
+* **Algorithmic Trading**: Developer of automated trading bots using MQL4/MQL5, focusing on commodities like Gold (XAUUSD) and Crude Oil.
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+* **[APK-Easy-Tool-Hebrew](https://github.com/wspdyb/APK-Easy-Tool-Hebrew)**: A maintained fork with full RTL support and Android 15 compatibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+* **Languages**: C#, MQL4, MQL5, Smali.
+* **Interests**: Financial markets, central bank policies, and government bonds.
