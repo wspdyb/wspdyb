@@ -1,11 +1,14 @@
-﻿# Hi there, I'm Zundel Grand (wspdyb) 👋
+﻿# Hi, I'm Zundel Grand (wspdyb) 👋
 
 ## 🛠️ Technical Specialization
-* **Android Systems**: Technician and developer specializing in low-level modifications and firmware.
+* **Android Systems & Internals**: Specialist in firmware updates, system modifications, and reverse engineering.
+* **Advanced Toolset**: Proficient in ADB, Fastboot, Smali, Frida, and Ghidra.
+* **Hardware & Firmware**: Extensive experience with MediaTek (MTK) chipsets and firmware patching tools.
+* **Localization**: Expert in RTL adaptations and Hebrew localization for developer tools.
 
 ## 📂 Featured Projects
-* **[APK-Easy-Tool-Hebrew](https://github.com/wspdyb/APK-Easy-Tool-Hebrew)**: Hebrew localization, RTL support, and modern Android compatibility.
+* **[APK-Easy-Tool-Hebrew](https://github.com/wspdyb/APK-Easy-Tool-Hebrew)**: A maintained fork with full RTL support and Android 15 compatibility.
 
 ## 🚀 Skills
-* **Languages**: C#, MQL4, MQL5, Smali.
-* **Tools**: ADB, Fastboot, Smali, Frida, and Ghidra.
+* **Languages**: C#, Smali.
+* **Tools**: Android SDK, Apktool, Ghidra, Frida.
